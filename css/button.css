@@ -1,0 +1,18 @@
+.btn btn-primary{
+    padding: 50px;
+margin-bottom:30px;
+box-sizing: border-box;
+border: 3px solid indianred;
+
+}
+a:link{
+    color: red; padding: 50px;
+  }
+
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
